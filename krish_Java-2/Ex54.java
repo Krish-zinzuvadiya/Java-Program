@@ -3,7 +3,7 @@
  *  name- krish zinzuvadiya
  *  Aim - wait() & notify()...
  */
-public class EX54 {
+public class Ex54 {
     public static void main(String[] args) {
         Dominoz d = new Dominoz();
         Chef rishi = new Chef("Rishi", d);
