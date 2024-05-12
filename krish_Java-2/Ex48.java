@@ -3,7 +3,7 @@
  *  date-24/04/24
  *  name- krish zinzuvadiya
  *  Aim - Create thread class with name number.
- *      - It uase to print numbers from 1 to 10.
+ *      - It use to print numbers from 1 to 10.
  *      - Create 2 object of number class with name 'ODD' & 'EVEN'.
  *      -  The Odd object prints the odd values and Even object prints even values.
  */
