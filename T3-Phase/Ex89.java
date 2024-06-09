@@ -1,7 +1,7 @@
 
 /*
  * Aim :- Create Hashmap that stores candidate and no. of votes..
- * ------>Apply all possible methods of Hashmap.
+ * -----> Apply all possible methods of Hashmap.
  */
 import java.util.HashMap;
 import java.util.Map;
